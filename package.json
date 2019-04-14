@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://inchan.ru/",
+  "homepage": "https://hicosystems.github.io/vk/",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "stop": "pkill --signal SIGINT vk1",
